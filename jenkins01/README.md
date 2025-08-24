@@ -1,1 +1,2 @@
 [![Build Status](http://192.168.0.10:8080/buildStatus/icon?job=parameterized-pipeline)](http://192.168.0.10:8080/job/parameterized-pipeline/)
+
